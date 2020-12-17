@@ -1,0 +1,1 @@
+insert into KORISNIK values (1, 'Marin', 'Romić', 'marin.romic@gmail.com' );
